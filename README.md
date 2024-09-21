@@ -14,7 +14,7 @@ swift run imagebackgroundremover --input <input_file> --output <output_file>
 
 ## Author
 
-[Tiago Henriques](https://tiagohenriques.vercel.app/about)
+<a href="https://tiagohenriques.vercel.app/about" target="_blank">Tiago Henriques</a>
 
 ## License
 
