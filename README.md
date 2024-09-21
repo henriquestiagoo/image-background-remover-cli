@@ -2,7 +2,7 @@
 
 A Swift CLI tool that removes the background from images.
 
-<img src=".github/simba.png" width="80%"/>
+<img src=".github/simba.png" />
 
 ## Usage: Building and Running from Source
 
