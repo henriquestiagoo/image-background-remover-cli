@@ -2,6 +2,8 @@
 
 A Swift CLI tool that removes the background from images.
 
+<img src=".github/simba.png" width="80%"/>
+
 ## Usage: Building and Running from Source
 
 To use this tool, first clone this project. Then, in the root directory, use SPM to build and run the executable:
