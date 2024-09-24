@@ -1,6 +1,6 @@
 # image-background-remover-cli
 
-A Swift CLI tool that removes the background from images.
+This is the sample project for the [post on my blog](https://tiagohenriques.vercel.app/blog/image-background-remover-cli), teaching how to remove the background from images using a Swift CLI tool.
 
 <img src=".github/simba.png" />
 
